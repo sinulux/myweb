@@ -1,0 +1,1848 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" readonly="true" id="5a004075-b6a4-49b9-b720-91e3b2483a9d" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>System</find>
+      <find>fileDiskPath</find>
+      <find>fileList</find>
+      <find>fileNetPath</find>
+      <find>layui-nav-img</find>
+      <find>check</find>
+      <find>Hash_region</find>
+      <find>HAS_REGION</find>
+      <find>callService</find>
+      <find>uni</find>
+      <find>身份证</find>
+      <find>checked</find>
+      <find>avatar-add</find>
+      <find>formDemo</find>
+      <find>demoTable</find>
+      <find>layui-table-cell</find>
+      <find>crm3</find>
+      <find>home</find>
+      <find>onselectData</find>
+      <find>menuTable</find>
+      <find>serviceTable</find>
+      <find>card-body</find>
+      <find>LAY_layedit_code</find>
+      <find>visibility</find>
+      <find>layui-tab</find>
+      <find>layui-tab-brief</find>
+      <find>querySysMenu2</find>
+      <find>updSysMenuInfoFlag</find>
+      <find>console</find>
+      <find>callservice</find>
+    </findStrings>
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/WebRoot/scripts/menuForm.js" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/person/userCenter.html" />
+        <option value="$PROJECT_DIR$/src/com/sitech/common/utils/Encrypt.java" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/system/attchFile.html" />
+        <option value="$PROJECT_DIR$/src/com/sitech/layout/atom/inter/IFilesOperationAo.java" />
+        <option value="$PROJECT_DIR$/src/com/sitech/layout/atom/base/FileOperationDict.java" />
+        <option value="$PROJECT_DIR$/config/common/springconfig/LocalEntity.xml" />
+        <option value="$PROJECT_DIR$/config/common/springconfig/ServiceAo.xml" />
+        <option value="$PROJECT_DIR$/src/com/sitech/layout/atom/dto/FilesOperationAoInDTO.java" />
+        <option value="$PROJECT_DIR$/src/com/sitech/layout/atom/dto/FilesOperationAoOutDTO.java" />
+        <option value="$PROJECT_DIR$/src/com/sitech/layout/ibatismap/FILE_INFO.xml" />
+        <option value="$PROJECT_DIR$/src/com/sitech/layout/ibatismap/SERVICE_INFO.xml" />
+        <option value="$PROJECT_DIR$/src/com/sitech/layout/atom/impl/FilesOperationAo.java" />
+        <option value="$PROJECT_DIR$/test/common/BaseLoginAcceptTest.java" />
+        <option value="$PROJECT_DIR$/src/com/sitech/common/utils/TimeUtils.java" />
+        <option value="$PROJECT_DIR$/WebRoot/scripts/person/baseSet.js" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/system/attachFile.html" />
+        <option value="$PROJECT_DIR$/src/com/sitech/layout/comp/inter/IFileServiceCo.java" />
+        <option value="$PROJECT_DIR$/src/com/sitech/layout/comp/dto/FileServiceCoInDTO.java" />
+        <option value="$PROJECT_DIR$/WebRoot/scripts/attachFile.js" />
+        <option value="$PROJECT_DIR$/.idea/workspace.xml" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/system/appInterface.html" />
+        <option value="$PROJECT_DIR$/src/com/sitech/layout/comp/impl/FileServiceCo.java" />
+        <option value="$PROJECT_DIR$/WebRoot/scripts/home.js" />
+        <option value="$PROJECT_DIR$/WebRoot/scripts/appInterface.js" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/weixin/home.html" />
+        <option value="$PROJECT_DIR$/WebRoot/scripts/statistical.js" />
+        <option value="$PROJECT_DIR$/WebRoot/scripts/common.js" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/system/menuMgr.html" />
+        <option value="$PROJECT_DIR$/WebRoot/scripts/menuMgr.js" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/system/statistical.html" />
+        <option value="$PROJECT_DIR$/WebRoot/scripts/serviceMgr.js" />
+        <option value="$PROJECT_DIR$/src/com/sitech/layout/ibatismap/MENU_INFO.xml" />
+        <option value="$PROJECT_DIR$/src/com/sitech/layout/atom/impl/MenuInfoDealAo.java" />
+        <option value="$PROJECT_DIR$/WebRoot/scripts/manager.js" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/effect/index.html" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/effect/other/css/htmleaf-demo.css" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/effect/other/css/style.css" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/effect/other/index.html" />
+        <option value="$PROJECT_DIR$/WebRoot/scripts/user/userInfo.js" />
+        <option value="$PROJECT_DIR$/WebRoot/common/css/main.css" />
+        <option value="$PROJECT_DIR$/WebRoot/login.html" />
+        <option value="$PROJECT_DIR$/src/com/sitech/common/web/req/SyncRequestServlet.java" />
+        <option value="$PROJECT_DIR$/WebRoot/common/vue/demo/firstVue.html" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/user/userInfo.html" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/effect/effect.css" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/effect/main.html" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/inter/form.html" />
+        <option value="$PROJECT_DIR$/WebRoot/scripts/interForm.js" />
+        <option value="$PROJECT_DIR$/WebRoot/common/layui/css/layui.css" />
+        <option value="$PROJECT_DIR$/WebRoot/pages/manager.html" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="width" value="1926" />
+    <option name="height" value="1032" />
+  </component>
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+    <ConfirmationsSetting value="2" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crm3.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm3.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm3.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm3.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crm3.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crm3.0" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="sitech" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope">
+        <subPane subId="Default">
+          <expand>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="crm6.0_test" type="cbb8eebc:String" user="crm6.0_test" />
+            </path>
+            <path>
+              <item name="Root" type="cbb8eebc:String" user="Root" />
+              <item name="crm6.0_test" type="cbb8eebc:String" user="crm6.0_test" />
+              <item name="config" type="cbb8eebc:String" user="config" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.database.dataSource.DataSourceTemplate" value="Oracle" />
+    <property name="database.console.LAST_STATE" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../company/xscreen" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.1590909" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\workspace\IntelliJ Idea\crm3.0\WebRoot\common\vue\js" />
+      <recent name="D:\workspace\IntelliJ Idea\crm3.0\WebRoot\pages\effect\other" />
+      <recent name="D:\workspace\IntelliJ Idea\crm3.0\WebRoot\pages\effect" />
+      <recent name="D:\workspace\IntelliJ Idea\crm3.0\WebRoot\common\images" />
+      <recent name="D:\workspace\IntelliJ Idea\crm3.0\WebRoot\common" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.sitech.common.utils" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\workspace\crm3.0\WebRoot" />
+      <recent name="E:\workspace\intelliJIdea\Local\crm3.0\WebRoot\scripts" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Tomcat Server.services">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+    </configuration>
+    <configuration name="BaseLoginAcceptTest" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="common.BaseLoginAcceptTest" />
+      <module name="crm3.0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Encrypt" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sitech.common.utils.Encrypt" />
+      <module name="crm3.0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sitech.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="LayuiUtil" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sitech.common.layui.LayuiUtil" />
+      <module name="crm3.0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sitech.common.layui.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PrivacyUtil" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sitech.common.utils.PrivacyUtil" />
+      <module name="crm3.0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sitech.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="PwdUtil" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.sitech.common.utils.PwdUtil" />
+      <module name="crm3.0" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.sitech.common.utils.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="DemoTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="crm3.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="common" />
+      <option name="MAIN_CLASS_NAME" value="common.DemoTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="DemoTest.testGetstringNum" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="crm3.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="common" />
+      <option name="MAIN_CLASS_NAME" value="common.DemoTest" />
+      <option name="METHOD_NAME" value="testGetstringNum" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="SyncRequestServiceAoTest" type="JUnit" factoryName="JUnit" nameIsGenerated="true">
+      <module name="crm3.0" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="common.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="common" />
+      <option name="MAIN_CLASS_NAME" value="common.SyncRequestServiceAoTest" />
+      <option name="METHOD_NAME" value="" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-server -XX:PermSize=128m -XX:MaxPermSize=256m" />
+      <option name="PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="file://$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="services" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 7.0.69" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="1.7">
+      <option name="OPEN_IN_BROWSER_URL" value="http://localhost:80/services/" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8 -server -XX:PermSize=128m -XX:MaxPermSize=256m" />
+      <deployment>
+        <artifact name="crm3.0">
+          <settings>
+            <option name="CONTEXT_PATH" value="/services" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="crm3.0" />
+        <option name="DEPLOY_TOMCAT_APPS" value="true" />
+        <option name="HTTP_PORT" value="80" />
+        <option name="JNDI_PORT" value="1098" />
+      </server-settings>
+      <predefined_log_file id="Tomcat" enabled="false" />
+      <predefined_log_file id="Tomcat Catalina" enabled="false" />
+      <predefined_log_file id="Tomcat Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Host Manager" enabled="false" />
+      <predefined_log_file id="Tomcat Localhost Access" enabled="false" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="57724" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method>
+        <option name="BuildArtifacts" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.LayuiUtil" />
+      <item itemvalue="Application.Encrypt" />
+      <item itemvalue="Application.BaseLoginAcceptTest" />
+      <item itemvalue="Application.PwdUtil" />
+      <item itemvalue="Application.PrivacyUtil" />
+      <item itemvalue="JUnit.DemoTest" />
+      <item itemvalue="JUnit.SyncRequestServiceAoTest" />
+      <item itemvalue="JUnit.DemoTest.testGetstringNum" />
+      <item itemvalue="Tomcat Server.services" />
+    </list>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="SvnFileUrlMappingImpl">
+    <option name="myMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\IntelliJ Idea\crm3.0" />
+          <option name="myCopyRoot" value="D:\workspace\IntelliJ Idea\crm3.0" />
+        </SvnCopyRootSimple>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\IntelliJ Idea\crm3.0\.idea" />
+          <option name="myCopyRoot" value="D:\workspace\IntelliJ Idea\crm3.0\.idea" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+    <option name="myMoreRealMappingRoots">
+      <list>
+        <SvnCopyRootSimple>
+          <option name="myVcsRoot" value="D:\workspace\IntelliJ Idea\crm3.0" />
+          <option name="myCopyRoot" value="D:\workspace\IntelliJ Idea\crm3.0" />
+        </SvnCopyRootSimple>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a004075-b6a4-49b9-b720-91e3b2483a9d" name="Default" comment="" />
+      <created>1502195280271</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1502195280271</updated>
+      <workItem from="1502195281720" duration="935000" />
+      <workItem from="1502261401194" duration="1350000" />
+      <workItem from="1502279391501" duration="6986000" />
+      <workItem from="1502436446152" duration="4580000" />
+      <workItem from="1502953534095" duration="5990000" />
+      <workItem from="1503045405373" duration="2846000" />
+      <workItem from="1503125773762" duration="1218000" />
+      <workItem from="1503277320484" duration="4136000" />
+      <workItem from="1503308715801" duration="7987000" />
+      <workItem from="1503451010489" duration="3000" />
+      <workItem from="1503451020845" duration="3601000" />
+      <workItem from="1503534791335" duration="6463000" />
+      <workItem from="1503545146035" duration="1795000" />
+      <workItem from="1503622324627" duration="7218000" />
+      <workItem from="1503880665476" duration="31049000" />
+      <workItem from="1504074529515" duration="28466000" />
+      <workItem from="1504234921965" duration="1792000" />
+      <workItem from="1504254617119" duration="1886000" />
+      <workItem from="1504315025370" duration="1030000" />
+      <workItem from="1504576443123" duration="12672000" />
+      <workItem from="1504776023895" duration="9429000" />
+      <workItem from="1504920325885" duration="640000" />
+      <workItem from="1505090173887" duration="2843000" />
+      <workItem from="1505113551883" duration="7902000" />
+      <workItem from="1505349590282" duration="41202000" />
+      <workItem from="1505556343673" duration="498000" />
+      <workItem from="1505695194655" duration="9417000" />
+      <workItem from="1505824689222" duration="804000" />
+      <workItem from="1505870447520" duration="1264000" />
+      <workItem from="1505953981338" duration="1116000" />
+      <workItem from="1506047983311" duration="821000" />
+      <workItem from="1506067087575" duration="1449000" />
+      <workItem from="1506319746290" duration="578000" />
+      <workItem from="1506474105575" duration="140000" />
+      <workItem from="1506559700498" duration="66000" />
+      <workItem from="1506670143849" duration="364000" />
+      <workItem from="1506733985888" duration="2179000" />
+      <workItem from="1507510325686" duration="15994000" />
+      <workItem from="1507788704456" duration="1514000" />
+      <workItem from="1507854737803" duration="2872000" />
+      <workItem from="1508114430366" duration="1615000" />
+      <workItem from="1508230677718" duration="59544000" />
+      <workItem from="1508718859125" duration="25781000" />
+      <workItem from="1508829612771" duration="409000" />
+      <workItem from="1508830036377" duration="57000" />
+      <workItem from="1508830097882" duration="2212000" />
+      <workItem from="1508832399844" duration="6279000" />
+      <workItem from="1508844199900" duration="4202000" />
+      <workItem from="1508893293904" duration="79000" />
+      <workItem from="1508898870403" duration="8301000" />
+      <workItem from="1509171976195" duration="4997000" />
+      <workItem from="1509196324922" duration="3048000" />
+      <workItem from="1509332212700" duration="12962000" />
+      <workItem from="1509352298745" duration="1861000" />
+      <workItem from="1509364986846" duration="1735000" />
+      <workItem from="1509410770540" duration="4782000" />
+      <workItem from="1509517352605" duration="2074000" />
+      <workItem from="1509699270746" duration="33000" />
+      <workItem from="1509700081383" duration="73000" />
+      <workItem from="1510103852117" duration="6454000" />
+      <workItem from="1510143040672" duration="375000" />
+      <workItem from="1510226831545" duration="114000" />
+      <workItem from="1510572443654" duration="29000" />
+      <workItem from="1510733835956" duration="6982000" />
+      <workItem from="1510798183453" duration="2731000" />
+      <workItem from="1510905580054" duration="3109000" />
+      <workItem from="1510973108691" duration="5571000" />
+      <workItem from="1510985898026" duration="5378000" />
+      <workItem from="1511248864550" duration="16438000" />
+      <workItem from="1511322114790" duration="1183000" />
+      <workItem from="1511405980199" duration="1978000" />
+      <workItem from="1511409553594" duration="8502000" />
+      <workItem from="1511433289928" duration="14945000" />
+      <workItem from="1511592248846" duration="1010000" />
+      <workItem from="1511620261230" duration="66000" />
+      <workItem from="1511622404294" duration="1540000" />
+      <workItem from="1511687327171" duration="1112000" />
+      <workItem from="1511940827079" duration="1064000" />
+      <workItem from="1512457514054" duration="3160000" />
+      <workItem from="1512637225083" duration="6000" />
+      <workItem from="1512805146923" duration="500000" />
+      <workItem from="1514004754721" duration="1322000" />
+      <workItem from="1514167804411" duration="1038000" />
+      <workItem from="1514186182213" duration="254000" />
+      <workItem from="1514252076197" duration="4875000" />
+      <workItem from="1514509155641" duration="3079000" />
+      <workItem from="1516001819100" duration="1221000" />
+      <workItem from="1516690145641" duration="15991000" />
+      <workItem from="1516758936053" duration="32193000" />
+      <workItem from="1516948025329" duration="12775000" />
+      <workItem from="1517186666910" duration="76310000" />
+      <workItem from="1517478410725" duration="18725000" />
+      <workItem from="1518136666835" duration="588000" />
+      <workItem from="1518154616034" duration="70000" />
+      <workItem from="1518166955226" duration="574000" />
+      <workItem from="1518171919692" duration="19000" />
+      <workItem from="1518316425666" duration="1385000" />
+      <workItem from="1518318023577" duration="598000" />
+      <workItem from="1518330200542" duration="250000" />
+      <workItem from="1518330516454" duration="660000" />
+      <workItem from="1518333136306" duration="403000" />
+      <workItem from="1518339175721" duration="470000" />
+      <workItem from="1518398500881" duration="980000" />
+      <workItem from="1520412259007" duration="9000" />
+      <workItem from="1520666676082" duration="62000" />
+      <workItem from="1521719638894" duration="86000" />
+      <workItem from="1521724433501" duration="270000" />
+      <workItem from="1523454801717" duration="1251000" />
+      <workItem from="1523615063650" duration="851000" />
+      <workItem from="1523855184615" duration="685000" />
+      <workItem from="1523946771553" duration="351000" />
+      <workItem from="1523947152012" duration="9908000" />
+      <workItem from="1524013527214" duration="15242000" />
+      <workItem from="1524127009950" duration="1314000" />
+      <workItem from="1524276228323" duration="42000" />
+      <workItem from="1524476353281" duration="748000" />
+      <workItem from="1525528804867" duration="691000" />
+      <workItem from="1525568178156" duration="1634000" />
+      <workItem from="1525678499034" duration="578000" />
+      <workItem from="1525682942493" duration="919000" />
+      <workItem from="1525741923215" duration="626000" />
+      <workItem from="1525744182692" duration="463000" />
+      <workItem from="1525844461616" duration="8070000" />
+      <workItem from="1525852641252" duration="9926000" />
+      <workItem from="1525915805441" duration="613000" />
+      <workItem from="1525946235494" duration="205000" />
+      <workItem from="1526282521884" duration="10847000" />
+      <workItem from="1526346444153" duration="616000" />
+      <workItem from="1526352463459" duration="24844000" />
+      <workItem from="1526432560374" duration="2616000" />
+      <workItem from="1526449275534" duration="20894000" />
+      <workItem from="1526519772570" duration="28870000" />
+      <workItem from="1526608212674" duration="3108000" />
+      <workItem from="1526611506502" duration="596000" />
+      <workItem from="1526612124322" duration="20383000" />
+      <workItem from="1526637089248" duration="4991000" />
+      <workItem from="1526643486219" duration="13210000" />
+      <workItem from="1526866321971" duration="26250000" />
+      <workItem from="1526951449283" duration="28962000" />
+      <workItem from="1527038818648" duration="270000" />
+      <workItem from="1527039220761" duration="3237000" />
+      <workItem from="1527046570001" duration="273000" />
+      <workItem from="1527063745061" duration="16947000" />
+      <workItem from="1527210044764" duration="19524000" />
+      <workItem from="1527234669056" duration="9229000" />
+      <workItem from="1527488949296" duration="21688000" />
+      <workItem from="1527735559940" duration="609000" />
+      <workItem from="1527746430064" duration="1310000" />
+      <workItem from="1527759902942" duration="18849000" />
+      <workItem from="1527866885455" duration="651000" />
+      <workItem from="1527868377374" duration="29000" />
+      <workItem from="1527928780569" duration="4884000" />
+      <workItem from="1528074912614" duration="999000" />
+      <workItem from="1528190203632" duration="1170000" />
+      <workItem from="1528276892742" duration="2493000" />
+      <workItem from="1528612279209" duration="2959000" />
+      <workItem from="1528694438238" duration="12000" />
+      <workItem from="1528698544049" duration="8784000" />
+      <workItem from="1528787256360" duration="12000" />
+      <workItem from="1529476866234" duration="24000" />
+      <workItem from="1529476908037" duration="70000" />
+      <workItem from="1529569255360" duration="179000" />
+      <workItem from="1529575589241" duration="113000" />
+      <workItem from="1529754144950" duration="522000" />
+      <workItem from="1530263382622" duration="621000" />
+      <workItem from="1530771078977" duration="236000" />
+      <workItem from="1531272602799" duration="725000" />
+      <workItem from="1531470913976" duration="609000" />
+      <workItem from="1531637473397" duration="167000" />
+    </task>
+    <task id="LOCAL-00130">
+      <created>1509347758065</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1509347758065</updated>
+    </task>
+    <task id="LOCAL-00131">
+      <created>1509348061804</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1509348061804</updated>
+    </task>
+    <task id="LOCAL-00132">
+      <created>1509354338090</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1509354338090</updated>
+    </task>
+    <task id="LOCAL-00133">
+      <created>1509354459456</created>
+      <option name="number" value="00133" />
+      <option name="presentableId" value="LOCAL-00133" />
+      <option name="project" value="LOCAL" />
+      <updated>1509354459456</updated>
+    </task>
+    <task id="LOCAL-00134">
+      <created>1509414825366</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1509414825366</updated>
+    </task>
+    <task id="LOCAL-00135">
+      <created>1510738288779</created>
+      <option name="number" value="00135" />
+      <option name="presentableId" value="LOCAL-00135" />
+      <option name="project" value="LOCAL" />
+      <updated>1510738288779</updated>
+    </task>
+    <task id="LOCAL-00136">
+      <created>1510738395351</created>
+      <option name="number" value="00136" />
+      <option name="presentableId" value="LOCAL-00136" />
+      <option name="project" value="LOCAL" />
+      <updated>1510738395351</updated>
+    </task>
+    <task id="LOCAL-00137">
+      <created>1510742523945</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1510742523945</updated>
+    </task>
+    <task id="LOCAL-00138">
+      <created>1510800305315</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1510800305316</updated>
+    </task>
+    <task id="LOCAL-00139">
+      <created>1510800963440</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1510800963441</updated>
+    </task>
+    <task id="LOCAL-00140">
+      <created>1510907933471</created>
+      <option name="number" value="00140" />
+      <option name="presentableId" value="LOCAL-00140" />
+      <option name="project" value="LOCAL" />
+      <updated>1510907933472</updated>
+    </task>
+    <task id="LOCAL-00141">
+      <created>1510986721381</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1510986721382</updated>
+    </task>
+    <task id="LOCAL-00142">
+      <created>1510986733726</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1510986733726</updated>
+    </task>
+    <task id="LOCAL-00143">
+      <created>1510988614239</created>
+      <option name="number" value="00143" />
+      <option name="presentableId" value="LOCAL-00143" />
+      <option name="project" value="LOCAL" />
+      <updated>1510988614239</updated>
+    </task>
+    <task id="LOCAL-00144">
+      <created>1511235301327</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1511235301328</updated>
+    </task>
+    <task id="LOCAL-00145">
+      <created>1511250427945</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1511250427945</updated>
+    </task>
+    <task id="LOCAL-00146">
+      <created>1511259931175</created>
+      <option name="number" value="00146" />
+      <option name="presentableId" value="LOCAL-00146" />
+      <option name="project" value="LOCAL" />
+      <updated>1511259931175</updated>
+    </task>
+    <task id="LOCAL-00147">
+      <created>1511260249811</created>
+      <option name="number" value="00147" />
+      <option name="presentableId" value="LOCAL-00147" />
+      <option name="project" value="LOCAL" />
+      <updated>1511260249811</updated>
+    </task>
+    <task id="LOCAL-00148">
+      <created>1511264712870</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1511264712870</updated>
+    </task>
+    <task id="LOCAL-00149">
+      <created>1511268370467</created>
+      <option name="number" value="00149" />
+      <option name="presentableId" value="LOCAL-00149" />
+      <option name="project" value="LOCAL" />
+      <updated>1511268370467</updated>
+    </task>
+    <task id="LOCAL-00150">
+      <created>1511331935975</created>
+      <option name="number" value="00150" />
+      <option name="presentableId" value="LOCAL-00150" />
+      <option name="project" value="LOCAL" />
+      <updated>1511331935975</updated>
+    </task>
+    <task id="LOCAL-00151">
+      <created>1511426401237</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1511426401237</updated>
+    </task>
+    <task id="LOCAL-00152">
+      <created>1511490477559</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1511490477559</updated>
+    </task>
+    <task id="LOCAL-00153">
+      <created>1511593197946</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1511593197946</updated>
+    </task>
+    <task id="LOCAL-00154">
+      <created>1511622910019</created>
+      <option name="number" value="00154" />
+      <option name="presentableId" value="LOCAL-00154" />
+      <option name="project" value="LOCAL" />
+      <updated>1511622910019</updated>
+    </task>
+    <task id="LOCAL-00155">
+      <created>1512805525148</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1512805525149</updated>
+    </task>
+    <task id="LOCAL-00156">
+      <created>1514018895199</created>
+      <option name="number" value="00156" />
+      <option name="presentableId" value="LOCAL-00156" />
+      <option name="project" value="LOCAL" />
+      <updated>1514018895200</updated>
+    </task>
+    <task id="LOCAL-00157">
+      <created>1518056002558</created>
+      <option name="number" value="00157" />
+      <option name="presentableId" value="LOCAL-00157" />
+      <option name="project" value="LOCAL" />
+      <updated>1518056002559</updated>
+    </task>
+    <task id="LOCAL-00158">
+      <created>1523935239210</created>
+      <option name="number" value="00158" />
+      <option name="presentableId" value="LOCAL-00158" />
+      <option name="project" value="LOCAL" />
+      <updated>1523935239211</updated>
+    </task>
+    <task id="LOCAL-00159">
+      <created>1523935346701</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1523935346701</updated>
+    </task>
+    <task id="LOCAL-00160">
+      <created>1523956916612</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1523956916612</updated>
+    </task>
+    <task id="LOCAL-00161">
+      <created>1525683735328</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1525683735328</updated>
+    </task>
+    <task id="LOCAL-00162">
+      <created>1525915651189</created>
+      <option name="number" value="00162" />
+      <option name="presentableId" value="LOCAL-00162" />
+      <option name="project" value="LOCAL" />
+      <updated>1525915651189</updated>
+    </task>
+    <task id="LOCAL-00163">
+      <created>1526376284235</created>
+      <option name="number" value="00163" />
+      <option name="presentableId" value="LOCAL-00163" />
+      <option name="project" value="LOCAL" />
+      <updated>1526376284236</updated>
+    </task>
+    <task id="LOCAL-00164">
+      <created>1526442379612</created>
+      <option name="number" value="00164" />
+      <option name="presentableId" value="LOCAL-00164" />
+      <option name="project" value="LOCAL" />
+      <updated>1526442379612</updated>
+    </task>
+    <task id="LOCAL-00165">
+      <created>1526609010791</created>
+      <option name="number" value="00165" />
+      <option name="presentableId" value="LOCAL-00165" />
+      <option name="project" value="LOCAL" />
+      <updated>1526609010791</updated>
+    </task>
+    <task id="LOCAL-00166">
+      <created>1526609487892</created>
+      <option name="number" value="00166" />
+      <option name="presentableId" value="LOCAL-00166" />
+      <option name="project" value="LOCAL" />
+      <updated>1526609487892</updated>
+    </task>
+    <task id="LOCAL-00167">
+      <created>1526611611680</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1526611611681</updated>
+    </task>
+    <task id="LOCAL-00168">
+      <created>1526613758347</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1526613758347</updated>
+    </task>
+    <task id="LOCAL-00169">
+      <created>1526897030526</created>
+      <option name="number" value="00169" />
+      <option name="presentableId" value="LOCAL-00169" />
+      <option name="project" value="LOCAL" />
+      <updated>1526897030526</updated>
+    </task>
+    <task id="LOCAL-00170">
+      <created>1527128496707</created>
+      <option name="number" value="00170" />
+      <option name="presentableId" value="LOCAL-00170" />
+      <option name="project" value="LOCAL" />
+      <updated>1527128496707</updated>
+    </task>
+    <task id="LOCAL-00171">
+      <created>1527151031794</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1527151031794</updated>
+    </task>
+    <task id="LOCAL-00172">
+      <created>1527151430755</created>
+      <option name="number" value="00172" />
+      <option name="presentableId" value="LOCAL-00172" />
+      <option name="project" value="LOCAL" />
+      <updated>1527151430755</updated>
+    </task>
+    <task id="LOCAL-00173">
+      <created>1527315653441</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1527315653442</updated>
+    </task>
+    <task id="LOCAL-00174">
+      <created>1527491143679</created>
+      <option name="number" value="00174" />
+      <option name="presentableId" value="LOCAL-00174" />
+      <option name="project" value="LOCAL" />
+      <updated>1527491143680</updated>
+    </task>
+    <task id="LOCAL-00175">
+      <created>1527829754783</created>
+      <option name="number" value="00175" />
+      <option name="presentableId" value="LOCAL-00175" />
+      <option name="project" value="LOCAL" />
+      <updated>1527829754786</updated>
+    </task>
+    <task id="LOCAL-00176">
+      <created>1527841410660</created>
+      <option name="number" value="00176" />
+      <option name="presentableId" value="LOCAL-00176" />
+      <option name="project" value="LOCAL" />
+      <updated>1527841410660</updated>
+    </task>
+    <task id="LOCAL-00177">
+      <created>1527841825729</created>
+      <option name="number" value="00177" />
+      <option name="presentableId" value="LOCAL-00177" />
+      <option name="project" value="LOCAL" />
+      <updated>1527841825729</updated>
+    </task>
+    <task id="LOCAL-00178">
+      <created>1530771235648</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1530771235649</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="DemoTest_testGetstringNum - 2017.12.05 at 16h 29m 19s.xml">
+      <configuration name="DemoTest.testGetstringNum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_testGetstringNum - 2017.12.05 at 16h 31m 29s.xml">
+      <configuration name="DemoTest.testGetstringNum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_testGetstringNum - 2017.12.05 at 16h 31m 46s.xml">
+      <configuration name="DemoTest.testGetstringNum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_testGetstringNum - 2017.12.05 at 16h 32m 44s.xml">
+      <configuration name="DemoTest.testGetstringNum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_testGetstringNum - 2017.12.05 at 16h 33m 31s.xml">
+      <configuration name="DemoTest.testGetstringNum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_testGetstringNum - 2017.12.05 at 16h 34m 51s.xml">
+      <configuration name="DemoTest.testGetstringNum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_testGetstringNum - 2017.12.05 at 16h 35m 36s.xml">
+      <configuration name="DemoTest.testGetstringNum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_testGetstringNum - 2017.12.05 at 16h 42m 19s.xml">
+      <configuration name="DemoTest.testGetstringNum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_testGetstringNum - 2017.12.05 at 16h 42m 56s.xml">
+      <configuration name="DemoTest.testGetstringNum" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DemoTest_testGetstringNum - 2017.12.05 at 16h 43m 41s.xml">
+      <configuration name="DemoTest.testGetstringNum" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="998872000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-4" y="0" width="1926" height="1032" extended-state="0" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="TODO" order="6" sideWeight="0.49945888" weight="0.32705882" />
+      <window_info anchor="bottom" id="Messages" order="14" sideWeight="0.4891775" weight="0.31529412" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="bottom" id="Java Enterprise" order="9" show_stripe_button="false" weight="0.32997763" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.4640558" side_tool="true" weight="0.38352942" />
+      <window_info anchor="bottom" id="Application Servers" order="16" sideWeight="0.49945888" weight="0.328125" />
+      <window_info anchor="right" id="Maven Projects" order="4" weight="0.32900432" />
+      <window_info anchor="bottom" id="Database Changes" order="18" sideWeight="0.49945888" weight="0.32932693" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49945888" weight="0.36941177" />
+      <window_info anchor="bottom" id="Version Control" order="10" sideWeight="0.5531116" weight="0.31610578" />
+      <window_info anchor="bottom" id="Spring" order="12" sideWeight="0.49945888" weight="0.328125" />
+      <window_info anchor="bottom" id="Terminal" order="13" sideWeight="0.49945888" weight="0.328125" />
+      <window_info id="Designer" order="6" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49367088" visible="true" weight="0.20410368" />
+      <window_info id="Web" order="7" sideWeight="0.5063291" side_tool="true" weight="0.1980572" />
+      <window_info anchor="right" id="Database" order="5" weight="0.114718616" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25320512" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5359442" weight="0.39182693" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Restore Sql" order="7" />
+      <window_info anchor="bottom" id="Inspection Results" order="19" weight="0.32979977" />
+      <window_info anchor="bottom" id="REST Client" order="11" visible="true" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info anchor="right" x="0" y="0" width="434" height="850" id="Documentation" order="9" side_tool="true" weight="0.3299356" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="bottom" id="Database Console" order="15" weight="0.32932693" />
+      <window_info id="Image Layers" order="4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="SVN Properties" order="17" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32705882" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="LAST_COMMIT_MESSAGE" value="" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>46</line>
+          <properties />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>39</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>43</line>
+          <properties />
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>304</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>48</line>
+          <properties />
+          <option name="timeStamp" value="12" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>464</line>
+          <properties />
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>429</line>
+          <properties />
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>353</line>
+          <properties />
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>598</line>
+          <properties />
+          <option name="timeStamp" value="24" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>891</line>
+          <properties />
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>263</line>
+          <properties />
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>310</line>
+          <properties />
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>974</line>
+          <properties />
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>65</line>
+          <properties />
+          <option name="timeStamp" value="41" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>2888</line>
+          <properties />
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>568</line>
+          <properties />
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>784</line>
+          <properties />
+          <option name="timeStamp" value="48" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>42</line>
+          <properties />
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>80</line>
+          <properties />
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>180</line>
+          <properties />
+          <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>167</line>
+          <properties />
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>151</line>
+          <properties />
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>148</line>
+          <properties />
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>76</line>
+          <properties />
+          <option name="timeStamp" value="73" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="74" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>103</line>
+          <properties />
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>38</line>
+          <properties />
+          <option name="timeStamp" value="79" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>2650</line>
+          <properties />
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>848</line>
+          <properties />
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>318</line>
+          <properties />
+          <option name="timeStamp" value="85" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>71</line>
+          <properties />
+          <option name="timeStamp" value="86" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>183</line>
+          <properties />
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="89" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>26</line>
+          <properties />
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>924</line>
+          <properties />
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>41</line>
+          <properties />
+          <option name="timeStamp" value="93" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>450</line>
+          <properties />
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>502</line>
+          <properties />
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>193</line>
+          <properties />
+          <option name="timeStamp" value="97" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>22</line>
+          <properties />
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url />
+          <line>20</line>
+          <properties />
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="243" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/statistical.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="875">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/menuMgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4125">
+          <caret line="32" column="25" selection-start-line="32" selection-start-column="13" selection-end-line="32" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sitech/layout/atom/impl/MenuInfoDealAo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2319">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/manager.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2250">
+          <caret line="7" column="27" selection-start-line="7" selection-start-column="27" selection-end-line="7" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sitech/layout/atom/base/MenuInfoDict.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="231">
+          <caret line="18" column="52" lean-forward="true" selection-start-line="18" selection-start-column="52" selection-end-line="18" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sitech/layout/ibatismap/MENU_INFO.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="24" column="43" lean-forward="true" selection-start-line="24" selection-start-column="43" selection-end-line="24" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/effect/other/css/htmleaf-demo.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4293">
+          <caret line="58" column="1" lean-forward="true" selection-start-line="58" selection-start-column="1" selection-end-line="58" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/effect/other/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-441">
+          <caret line="95" column="19" selection-start-line="95" selection-start-column="19" selection-end-line="95" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/effect/other/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="250">
+          <caret line="17" column="46" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/common/images/login-bg.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/common/images/login.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/common/images/logo-login.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/common/css/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="10" column="89" lean-forward="true" selection-start-line="10" selection-start-column="25" selection-end-line="10" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="56" lean-forward="true" selection-start-line="12" selection-start-column="56" selection-end-line="12" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/effect/main.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sitech/common/web/req/SyncRequestServlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4125">
+          <caret line="185" selection-start-line="185" selection-end-line="185" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/post/publishPost.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/post/baseData.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/serviceMgr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1150">
+          <caret line="46" column="34" selection-start-line="46" selection-start-column="22" selection-end-line="46" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/publishPost.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/dailyRecord.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/home.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2325">
+          <caret line="93" selection-start-line="93" selection-end-line="93" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/system/api.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1100">
+          <caret line="44" column="8" selection-start-line="44" selection-start-column="8" selection-end-line="48" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/post/content.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/person/message.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/person/userCenter.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2025">
+          <caret line="81" column="29" selection-start-line="81" selection-start-column="19" selection-end-line="81" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/common/scripts/DD_belatedPNG.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1050" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/common/scripts/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2267">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/common/vue/js/vue.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/common/vue/demo/firstVue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="675">
+          <caret line="27" column="34" selection-start-line="27" selection-start-column="34" selection-end-line="27" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/effect/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3700">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/system/icon.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="30" column="9" selection-start-line="30" selection-start-column="9" selection-end-line="30" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/user/userInfo.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="76" column="17" lean-forward="true" selection-start-line="76" selection-start-column="17" selection-end-line="76" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/effect/effect.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="224" column="1" lean-forward="true" selection-start-line="224" selection-start-column="1" selection-end-line="224" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/effect/main.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="81" column="56" lean-forward="true" selection-start-line="81" selection-start-column="56" selection-end-line="81" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/appInterface.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1000">
+          <caret line="40" column="40" selection-start-line="40" selection-start-column="40" selection-end-line="40" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/system/appInterface.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="25" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/inter/form.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="43" column="92" selection-start-line="43" selection-start-column="82" selection-end-line="43" selection-end-column="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/interForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1132">
+          <caret line="49" column="27" selection-start-line="49" selection-start-column="27" selection-end-line="49" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sitech/common/layui/LayuiUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/common/layui/css/layui.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="1085" column="29" selection-start-line="1085" selection-start-column="23" selection-end-line="1085" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sitech/common/layui/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/manager.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="20" column="12" selection-start-line="20" selection-start-column="12" selection-end-line="20" selection-end-column="12" />
+          <folding>
+            <element signature="n#style#0;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/attachFile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1550">
+          <caret line="62" column="19" selection-start-line="62" selection-start-column="19" selection-end-line="62" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/sitech/layout/ibatismap/FILE_INFO.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="750">
+          <caret line="30" column="46" selection-start-line="30" selection-start-column="46" selection-end-line="30" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/user/userInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3575">
+          <caret line="143" column="44" selection-start-line="143" selection-start-column="44" selection-end-line="143" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/person/userCenter.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/person/message.js">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/scripts/person/baseSet.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="57" column="7" selection-start-line="27" selection-start-column="4" selection-end-line="57" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WebRoot/pages/person/baseSet.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="57" column="26" selection-start-line="57" selection-start-column="26" selection-end-line="57" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <last-edited>crm3.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.5" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>crm3.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
